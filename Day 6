@@ -1,0 +1,72 @@
+Day 6/30 – Introduction to Excel for Data Analysis
+
+Overview
+
+Today, I continued my Data Analytics learning journey by exploring the fundamentals of Microsoft Excel. I learned how Excel is structured and how its features help in organizing, managing, and analyzing data efficiently.
+
+Topics Covered
+
+Introduction to Microsoft Excel and its interface
+
+Creating and managing worksheets
+
+Understanding the Excel Ribbon and Tabs
+
+Identifying cells, rows, and columns
+
+Cell referencing in Excel
+
+Types of cell references:
+
+Relative Reference
+
+Absolute Reference
+
+Mixed Reference
+
+
+
+Key Concepts Learned
+
+Cell Referencing
+
+Cell references allow formulas to use values stored in other cells, making calculations dynamic and efficient.
+
+Relative Reference
+
+Changes automatically when copied to another cell.
+
+Example:
+
+=A1+B1
+
+Absolute Reference
+
+Remains fixed when copied.
+
+Example:
+
+=$A$1
+
+Mixed Reference
+
+Partially fixed (either row or column remains constant).
+
+Examples:
+
+=$A1
+=A$1
+
+Key Takeaway
+
+Understanding Excel's structure and mastering cell references are essential skills for performing accurate calculations and building effective data analysis workflows.
+
+Progress
+
+✅ Day 6 Completed
+
+Next Step
+
+Learn Excel functions and formulas for data analysis.
+
+#DataAnalytics #Excel #LearningInPublic #30DaysChallenge #MicrosoftExcel #DataAnalysis #FutureDataAnalyst #TSAcademy 🚀📊
