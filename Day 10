@@ -1,0 +1,23 @@
+Day 10: Excel Text Functions
+Today, I learned and practiced important Excel Text Functions used for data cleaning and text manipulation.
+Functions Covered
+CONCAT
+CONCATENATE
+TEXTJOIN
+LEFT
+RIGHT
+MID
+SUBSTITUTE
+LEN
+UPPER
+LOWER
+PROPER
+Key Takeaways
+Combined text from multiple cells.
+Extracted specific characters from text strings.
+Replaced text values efficiently.
+Counted characters in text entries.
+Standardized text formatting using uppercase, lowercase, and proper case functions.
+Why It Matters
+Text functions are essential for cleaning and preparing raw data before analysis. They help transform inconsistent data into a structured format suitable for reporting and decision-making.
+#DataAnalytics #Excel #DataCleaning #LearningJourney #30DaysOfDataAnalytics
