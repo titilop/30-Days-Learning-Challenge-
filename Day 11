@@ -1,0 +1,29 @@
+# Day 11 - Excel Text Functions
+
+## Overview
+Today, I reviewed and practiced the Excel Text Functions covered in the previous class.
+
+## Functions Learned
+- CONCAT
+- CONCATENATE
+- TEXTJOIN
+- LEFT
+- RIGHT
+- MID
+- SUBSTITUTE
+- LEN
+- UPPER
+- LOWER
+- PROPER
+
+## Key Takeaways
+- Combine text from multiple cells.
+- Extract specific characters from text.
+- Replace unwanted text with new values.
+- Count characters in a text string.
+- Convert text to uppercase, lowercase, or proper case.
+
+## Reflection
+Reviewing these functions helped reinforce my understanding of text manipulation in Excel. These skills are essential for data cleaning and preparation, which are important steps in the data analysis process.
+
+#30DaysOfDataAnalytics
